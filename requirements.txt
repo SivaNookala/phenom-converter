@@ -1,1 +1,2 @@
 Flask==2.0.2
+eng_to_ipa
